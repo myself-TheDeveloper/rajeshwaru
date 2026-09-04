@@ -99,7 +99,6 @@ const PROJECTS = [
     img: project5,
     wide: true,
   },
-  ,
 ];
 
 const PROCESS_STEPS = [
