@@ -328,7 +328,7 @@ export default function App() {
               className="text-5xl md:text-7xl lg:text-8xl font-black leading-[0.95] text-[#524646] mb-8"
               style={{ fontFamily: "'Playfair Display', serif" }}
             >
-              Where Concrete<br />
+              Rajeshwari GFRC<br />
               <em className="not-italic text-[#EC5B38]">Defies</em><br />
               Its Own Weight.
             </h1>
@@ -1035,8 +1035,8 @@ export default function App() {
           <div className="border-t border-[#EC5B38]/30 pt-8 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
             <span className="text-[#A8A492] text-xs">© 2026 BWSS pvt Ltd. All rights reserved.</span>
             <div className="flex gap-6">
-              {["Privacy Policy", "Terms of Use"].map((link) => (
-                <a key={link} href="#" className="text-[#A8A492] hover:text-[#A8A492] text-xs transition-colors">{link}</a>
+              {[["Privacy Policy", "#contact"], ["Terms of Use", "#contact"]].map(([link, href]) => (
+                <a key={link} href={href} className="text-[#A8A492] hover:text-[#A8A492] text-xs transition-colors">{link}</a>
               ))}
             </div>
           </div>
