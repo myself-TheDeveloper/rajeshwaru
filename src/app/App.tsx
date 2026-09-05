@@ -7,6 +7,18 @@ import project2 from "../assets/project2.jpeg";
 import project3 from "../assets/project3.jpeg";
 import project4 from "../assets/project4.jpeg";
 import project5 from "../assets/project5.jpeg";
+import project6 from "../assets/project6.jpeg";
+import project7 from "../assets/project7.jpeg";
+import project8 from "../assets/project8.jpeg";
+import project9 from "../assets/project9.jpeg";
+import project10 from "../assets/project10.jpeg";
+import project11 from "../assets/project11.jpeg";
+import project12 from "../assets/project12.jpeg";
+import project13 from "../assets/project13.jpg";
+import project14 from "../assets/project14.jpeg";
+import project15 from "../assets/project15.jpeg";
+import project16 from "../assets/project16.jpeg";
+import project17 from "../assets/project17.jpeg";
 
 const CONTACT_EMAIL = "rajeshwarigfrcexterio@gmail.com";
 
@@ -62,10 +74,82 @@ const BENEFITS = [
 
 const PROJECTS = [
   {
-
     name: "",
     type: "Commercial Highrise",
     img: project1,
+    wide: false,
+  },
+
+  {
+    name: "",
+    type: "Commercial Highrise",
+    img: project6,
+    wide: false,
+  },
+  {
+    name: "",
+    type: "Commercial Highrise",
+    img: project7,
+    wide: false,
+  },
+  {
+    name: "",
+    type: "Commercial Highrise",
+    img: project8,
+    wide: false,
+  },
+  {
+    name: "",
+    type: "Commercial Highrise",
+    img: project9,
+    wide: false,
+  },
+  {
+    name: "",
+    type: "Commercial Highrise",
+    img: project10,
+    wide: false,
+  },
+  {
+    name: "",
+    type: "Commercial Highrise",
+    img: project11,
+    wide: false,
+  },
+  {
+    name: "",
+    type: "Commercial Highrise",
+    img: project12,
+    wide: false,
+  },
+  {
+    name: "",
+    type: "Commercial Highrise",
+    img: project13,
+    wide: false,
+  },
+  {
+    name: "",
+    type: "Commercial Highrise",
+    img: project14,
+    wide: false,
+  },
+  {
+    name: "",
+    type: "Commercial Highrise",
+    img: project15,
+    wide: false,
+  },
+  {
+    name: "",
+    type: "Commercial Highrise",
+    img: project16,
+    wide: false,
+  },
+  {
+    name: "",
+    type: "Commercial Highrise",
+    img: project17,
     wide: false,
   },
   {
