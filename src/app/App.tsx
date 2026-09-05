@@ -88,74 +88,74 @@ const PROJECTS = [
   },
   {
     name: "",
-    type: "Commercial Highrise",
+    type: "",
     img: project7,
     wide: false,
   },
   {
     name: "",
-    type: "Commercial Highrise",
+    type: "",
     img: project8,
     wide: false,
   },
   {
     name: "",
-    type: "Commercial Highrise",
+    type: "",
     img: project9,
     wide: false,
   },
   {
     name: "",
-    type: "Commercial Highrise",
+    type: "",
     img: project10,
     wide: false,
   },
   {
     name: "",
-    type: "Commercial Highrise",
+    type: "",
     img: project11,
     wide: false,
   },
   {
     name: "",
-    type: "Commercial Highrise",
+    type: "",
     img: project12,
     wide: false,
   },
   {
     name: "",
-    type: "Commercial Highrise",
+    type: "",
     img: project13,
     wide: false,
   },
   {
     name: "",
-    type: "Commercial Highrise",
+    type: "",
     img: project14,
     wide: false,
   },
   {
     name: "",
-    type: "Commercial Highrise",
+    type: "",
     img: project15,
     wide: false,
   },
   {
     name: "",
-    type: "Commercial Highrise",
+    type: "",
     img: project16,
     wide: false,
   },
   {
     name: "",
-    type: "Commercial Highrise",
+    type: "",
     img: project17,
     wide: false,
   },
   {
 
     name: "",
-    type: "Cultural / Civic",
+    type: "",
 
     img: project2,
     wide: true,
@@ -163,7 +163,7 @@ const PROJECTS = [
   {
 
     name: "",
-    type: "Hospitality",
+    type: "",
 
     img: project3,
     wide: false,
@@ -171,7 +171,7 @@ const PROJECTS = [
   {
 
     name: "",
-    type: "Commercial Campus",
+    type: "",
 
     img: project4,
     wide: false,
@@ -179,7 +179,7 @@ const PROJECTS = [
   {
 
     name: "",
-    type: "Residential / Retail",
+    type: "",
     img: project5,
     wide: true,
   },
